@@ -1,6 +1,3 @@
-# AI Travel Architect
-Personalized Trip Planning & Scheduling System
-
 # 🤖 AI Travel Planning Agents
 
 **Intelligent, Multi-Agent System for Personalized and Context-Aware Travel Itinerary Planning.**
