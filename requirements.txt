@@ -1,0 +1,10 @@
+# Libraries required to run the Travel Planning Agents project
+
+# The core library for working with models: Google Gemini
+google-genai
+
+# Library used to define and validate data schemas (JSON Schema)
+pydantic
+
+# The library used to load environment variables from the .env file
+python-dotenv
