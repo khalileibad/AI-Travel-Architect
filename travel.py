@@ -191,7 +191,7 @@ def run_planner_agent(destination: str, duration: int, proposals: List[ActivityP
 # C: investigator Agent
 # Called From A: 2
 def run_investigator_agent(destination: str, interests: List[str]) -> List[ActivityProposal] | None:
-   """
+    """
     The investigator agent conducts real-time web research (via Gemini Search Tool) to find 
     relevant activities and costs, then converts the findings into a structured list 
     of activity proposals in JSON format.
